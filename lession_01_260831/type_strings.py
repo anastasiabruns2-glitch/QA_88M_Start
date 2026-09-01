@@ -5,7 +5,7 @@ name = "Sveta" # str
 is_name = True # bool
 
 fruits = ["apple", "banana", "orange", "mango"] # list, editierbar
-coordinates = [1, 2, 3] # tuple => unveränderbar... Warum?
+coordinates = (1, 2, 3) # tuple => unveränderbar... Warum?
 students = {
     "name": "Sveta",
     "age": 18
